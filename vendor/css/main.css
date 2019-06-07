@@ -10560,4 +10560,8 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+h1 {
+  color: green;
+}
 /*# sourceMappingURL=main.css.map */
