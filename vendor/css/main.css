@@ -10561,7 +10561,33 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
-h1 {
-  color: green;
+#proParties {
+  background: #444444;
+  color: white;
+  height: 208px;
+  width: 100%;
+}
+
+#proParties h3 {
+  text-align: center;
+  padding-top: 100px;
+  margin: 15px 0px 20px;
+}
+
+#bFotter .col-md-6 {
+  padding: 0%;
+  margin: 0%;
+}
+
+#bFotter .col-md-6 img {
+  height: 298.38px;
+  width: 683px;
+  opacity: 1;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+#bFotter .col-md-6 img:hover {
+  opacity: 0.5;
 }
 /*# sourceMappingURL=main.css.map */
